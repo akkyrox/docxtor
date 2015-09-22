@@ -15,5 +15,5 @@ end
 
 group :development do
   gem "pry"
-  gem "pry-debugger"
+  gem "debugger"
 end
