@@ -28,5 +28,5 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "builder"
   spec.add_runtime_dependency "rubytree"
-  spec.add_runtime_dependency "rubyzip", "0.9.9"
+  spec.add_runtime_dependency "rubyzip", "1.1.7"
 end
