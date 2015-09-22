@@ -8,6 +8,7 @@ module Docxtor
       end
 
       def save(filepath)
+       debugger
         Zip::ZipOutputStream.open(filepath) do |ostream|
           write_parts(ostream)
         end
