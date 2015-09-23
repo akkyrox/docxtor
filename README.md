@@ -11,6 +11,10 @@ docxtor
 Ruby docx generator.
 **Docxtor** is built to work with Ruby 1.8 as well as 1.9
 
+## Changed Features
+
+- Dependency of this gem is changed from rubyzip, "0.9.9" to rubyzip, "1.1.7"
+
 ## Features
 
 - Paragraphs and headings markup.
